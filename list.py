@@ -4,12 +4,12 @@ import time
 import threading
 from threading import Thread
 os.system("clear")
-print("__________________________________100api____________")
+print("__________________________________200api____________")
 print("")
-print("_____________________https://www.facebook.com/settamas___")
+print("_____________________No_Name___")
 print("")
 print("")
-print("_______________________________github:Kido1111:_______________________")
+print("_______________________________github:Z1_SortTH:_______________________")
 print("list")
 print("")
 phone = input("\033[95m[+] Number : \033[0m")
